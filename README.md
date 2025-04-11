@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **AdnanAyaz1/AdnanAyaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEF720&width=435&lines=Hi+I+am+Adnan+Ayaz+a+passionate+Next+JS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEF720&width=435&lines=Hi+I+am+Adnan+Ayaz+a+passionate+Next+JS+Developer+%F0%9F%91%8B)](https://git.io/typing-svg)
