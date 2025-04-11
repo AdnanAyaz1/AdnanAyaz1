@@ -27,7 +27,6 @@ Whether it’s a **SaaS platform**, a **portfolio**, or a **business site** — 
 ## 💻 Tech Stack
 <div align="center">
 
-<!-- Keep badges in a single row or compact layout for better visuals -->
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -46,17 +45,10 @@ Whether it’s a **SaaS platform**, a **portfolio**, or a **business site** — 
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Most Used Languages
+
 <div align="center">
 
-![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdnanAyaz1&theme=dark&hide_border=true&show_icons=true)
-![Adnan's GitHub Streak](https://streak-stats.demolab.com/?user=AdnanAyaz1&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanAyaz1&theme=dark&hide_border=true&layout=compact)
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AdnanAyaz1&icon=0&color=0" alt="Visitor Count" />
-</p>
